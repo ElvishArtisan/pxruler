@@ -11,4 +11,4 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Ruler tools for measuring desktop elements
  Pxruler is a set of tools for measuring the dimensions graphical desktop
-elements.
+ elements.

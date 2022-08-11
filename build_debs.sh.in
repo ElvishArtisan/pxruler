@@ -22,11 +22,11 @@
 #   Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 #
 
-tar -zvxf lwmon-@VERSION@.tar.gz
-mv lwmon-@VERSION@.tar.gz lwmon_@VERSION@.orig.tar.gz
+tar -zvxf pxruler-@VERSION@.tar.gz
+mv pxruler-@VERSION@.tar.gz pxruler_@VERSION@.orig.tar.gz
 
-cd lwmon-@VERSION@
+cd pxruler-@VERSION@
 dpkg-buildpackage -us -uc
 cd ..
 
-rm -rf lwmon-@VERSION@
+rm -rf pxruler-@VERSION@
