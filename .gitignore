@@ -1,0 +1,9 @@
+*~
+*.o
+*.rpm
+*.tar.gz
+Makefile
+Makefile.in
+autom4te.cache
+debian/changelog
+debian/control
