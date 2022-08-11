@@ -2,3 +2,5 @@
 	* Initial package creation.
 2022-08-11 Fred Gleason <fredg@paravelsystems.com>
 	* Fixed bugs that broke the 'make deb' target.
+2022-08-11 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'Makefile.in' to the 'maintainer-clean' rule.

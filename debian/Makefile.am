@@ -30,4 +30,5 @@ EXTRA_DIST = changelog\
              rules
 
 MAINTAINERCLEANFILES = changelog\
-                       control
+                       control\
+                       Makefile.in
